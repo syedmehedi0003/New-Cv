@@ -4,6 +4,20 @@
 body{
     background-color: rgb(130, 172, 172);
 }
+
+/*---------------Bio-section start-----------------------------*/
+.bio{
+    float: left;
+    padding: 20px;
+    max-width: 100%;
+}
+
+.contact{
+    float: left;
+    padding: 20px;
+    max-width: 100%;
+}
+
 /*---------------career-section start-----------------------------*/
 
 .career-section{
