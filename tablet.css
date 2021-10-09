@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(111, 228, 179);
+}
+
+/*---------------career-section start-----------------------------*/
+
+.career-section{
+
+}
+.content{
+    margin-bottom: 30px;
+   
+}
+.left-div{
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+.right-div{
+    width: 100%;
+    float: left;
+}
+
