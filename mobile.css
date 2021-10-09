@@ -9,18 +9,18 @@ body{
     max-width: 100%;
     background-color:  #e1e3f9 ;
     margin: 0 auto;
-    padding: 20px;
+    padding: 5px;
 }
 /*---------------Bio-section start-----------------------------*/
 .bio{
     float: left;
-    padding: 20px;
+    padding: 10px;
     max-width: 100%;
 }
 
 .contact{
     float: left;
-    padding: 20px;
+    padding: 10px;
     max-width: 100%;
 }
 
@@ -48,7 +48,7 @@ body{
 .education-left{
     float: left;
     width: 30%;
-    padding: 50px;
+    padding: 5px;
 }
 .education-left{
     float: left;
@@ -69,10 +69,10 @@ body{
 .reference-left{
     float: left;
     width: 50%;
-    padding: 10px;
+    padding: 5px;
 }
 .reference-left{
     float: left;
     width: 50%;
-    padding: 10px;
+    padding: 5px;
 }
